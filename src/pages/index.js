@@ -14,14 +14,14 @@ export default function Home() {
 
       <meta property="og:title" content="Obtainables" />
       <meta property="og:description" content="Earn fitness milestones as NFTs with Obtainables. Achieve. Acquire. Admire. Coming Soon!" />
-      <meta property="og:image" content="/og-image.png" />
+      <meta property="og:image" content="https://www.obtainables.xyz/og-image.png" />
       <meta property="og:url" content="https://obtainables.xyz" />
       <meta property="og:type" content="website" />
 
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Obtainables" />
       <meta name="twitter:description" content="Earn fitness milestones as NFTs with Obtainables. Achieve. Acquire. Admire. Coming Soon!" />
-      <meta name="twitter:image" content="/og-image.png" />
+      <meta name="twitter:image" content="https://www.obtainables.xyz/og-image.png" />
     </Head>
 
     {/* Create a coming soon screen with an SVG logo in the middle centered on the screen and #E2FF8A as the background color. */}
